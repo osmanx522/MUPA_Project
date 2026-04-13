@@ -26,10 +26,6 @@ Kendi bilgisayarımda çalışacak, görevlerimi otomatize edecek ve zamanla ben
 
 ---
 
-> **Not:** Bu proje henüz "bebek adımları" aşamasında. 1. sınıfta başladığım bu serüvende hata yapa yapa öğrenmeye devam ediyorum! 🚀
-
----
-
 ### ⚙️ Kurulum (Geliştiriciler İçin)
 1. Bilgisayarınızda [Ollama](https://ollama.com) kurulu olmalı.
 2. Terminalden modeli çekin: `ollama run qwen2.5`
